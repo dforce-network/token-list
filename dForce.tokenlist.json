@@ -1,0 +1,136 @@
+{
+    "name": "dForce",
+    "logoURI": "https://raw.githubusercontent.com/dforce-network/token-list/master/logos/DF.svg",
+    "keywords": [
+        "dForce",
+        "defi"
+    ],
+    "timestamp": "2020-08-29T00:00:00.000+00:00",
+    "tokens": [
+        {
+            "chainId": 1,
+            "address": "0xeb269732ab75A6fD61Ea60b06fE994cD32a83549",
+            "name": "dForce",
+            "symbol": "USDx",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/dforce-network/token-list/master/logos/USDx.svg"
+        },
+        {
+            "chainId": 1,
+            "address": "0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0",
+            "name": "dForce",
+            "symbol": "DF",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/dforce-network/token-list/master/logos/DF.svg"
+        },
+        {
+            "chainId": 1,
+            "address": "0x355C665e101B9DA58704A8fDDb5FeeF210eF20c0",
+            "name": "dForce",
+            "symbol": "GOLDx",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/dforce-network/token-list/master/logos/GOLDx.svg"
+        },
+        {
+            "chainId": 1,
+            "address": "0x02285AcaafEB533e03A7306C55EC031297df9224",
+            "name": "dForce DAI",
+            "symbol": "dDAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/dforce-network/token-list/master/logos/dDAI.svg"
+        },
+        {
+            "chainId": 1,
+            "address": "0x16c9cF62d8daC4a38FB50Ae5fa5d51E9170F3179",
+            "name": "dForce USDC",
+            "symbol": "dUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/dforce-network/token-list/master/logos/dUSDC.svg"
+        },
+        {
+            "chainId": 1,
+            "address": "0x868277d475E0e475E38EC5CdA2d9C83B5E1D9fc8",
+            "name": "dForce USDT",
+            "symbol": "dUSDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/dforce-network/token-list/master/logos/dUSDT.svg"
+        },
+        {
+            "chainId": 1,
+            "address": "0x55BCf7173C8840d5517424eD19b7bbF11CFb9F2B",
+            "name": "dForce TUSD",
+            "symbol": "dTUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/dforce-network/token-list/master/logos/dTUSD.svg"
+        },
+        {
+            "chainId": 1,
+            "address": "0xF4dFc3Df8C83Be5a2ec2025491fd157c474f438a",
+            "name": "dForce PAX",
+            "symbol": "dPAX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/dforce-network/token-list/master/logos/dPAX.svg"
+        },
+        {
+            "chainId": 1,
+            "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+            "name": "Binance USD",
+            "symbol": "BUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/dforce-network/token-list/master/logos/BUSD.svg"
+        },
+        {
+            "chainId": 1,
+            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/dforce-network/token-list/master/logos/DAI.svg"
+        },
+        {
+            "chainId": 1,
+            "address": "0xdF574c24545E5FfEcb9a659c229253D4111d87e1",
+            "name": "HUSD",
+            "symbol": "HUSD",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/dforce-network/token-list/master/logos/HUSD.svg"
+        },
+        {
+            "chainId": 1,
+            "address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
+            "name": "Paxos Standard",
+            "symbol": "PAX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/dforce-network/token-list/master/logos/PAX.svg"
+        },
+        {
+            "chainId": 1,
+            "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/dforce-network/token-list/master/logos/USDC.svg"
+        },
+        {
+            "chainId": 1,
+            "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/dforce-network/token-list/master/logos/USDT.svg"
+        },
+        {
+            "chainId": 1,
+            "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+            "name": "TrueUSD",
+            "symbol": "TUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/dforce-network/token-list/master/logos/TUSD.svg"
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}
