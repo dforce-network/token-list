@@ -2861,14 +2861,12 @@
         "decimals": 9,
         "address": "0x4a68c250486a116dc8d6a0c5b0677de07cc09c5d",
         "logoURI": "https://tokens.1inch.exchange/0x56a980328aee33aabb540a02e002c8323326bf36.png"
-    }
+    },
     "0xB5102CeE1528Ce2C760893034A4603663495fD72": {
         "symbol": "USX",
         "name": "dForce USD",
         "decimals": 18,
         "address": "0xB5102CeE1528Ce2C760893034A4603663495fD72",
-        "logoURI": "https://cdn.jsdelivr.net/gh/dforce-network/token-list@master/logos/USX.svg
-
-"
+        "logoURI": "https://cdn.jsdelivr.net/gh/dforce-network/token-list@master/logos/USX.svg"
     }
 }
