@@ -853,13 +853,6 @@
         "address": "0x81c15d3e956e55e77e1f3f257f0a65bd2725fc55",
         "logoURI": "https://tokens.1inch.exchange/0x81c15d3e956e55e77e1f3f257f0a65bd2725fc55.png"
     },
-    "0x4a9a2b2b04549c3927dd2c9668a5ef3fca473623": {
-        "symbol": "DF",
-        "name": "dForce",
-        "decimals": 18,
-        "address": "0x4a9a2b2b04549c3927dd2c9668a5ef3fca473623",
-        "logoURI": "https://tokens.1inch.exchange/0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0.png"
-    },
     "0xdc0f0a5719c39764b011edd02811bd228296887c": {
         "symbol": "DOS",
         "name": "DOS Network Token BEP20",
