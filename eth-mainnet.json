@@ -2020,13 +2020,6 @@
         "address": "0x14d10003807ac60d07bb0ba82caeac8d2087c157",
         "logoURI": "https://tokens.1inch.exchange/0x14d10003807ac60d07bb0ba82caeac8d2087c157.png"
     },
-    "0xeb269732ab75a6fd61ea60b06fe994cd32a83549": {
-        "symbol": "USDx",
-        "name": "dForce",
-        "decimals": 18,
-        "address": "0xeb269732ab75a6fd61ea60b06fe994cd32a83549",
-        "logoURI": "https://tokens.1inch.exchange/0xeb269732ab75a6fd61ea60b06fe994cd32a83549.png"
-    },
     "0x0000000000085d4780b73119b644ae5ecd22b376": {
         "symbol": "TUSD",
         "name": "TrueUSD",
@@ -7379,5 +7372,75 @@
         "decimals": 18,
         "address": "0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d",
         "logoURI": "https://tokens.1inch.exchange/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d.png"
+    },
+    "0xeb269732ab75a6fd61ea60b06fe994cd32a83549": {
+        "symbol": "USDx",
+        "name": "dForce",
+        "decimals": 18,
+        "address": "0xeb269732ab75a6fd61ea60b06fe994cd32a83549",
+        "logoURI": "https://cdn.jsdelivr.net/gh/dforce-network/token-list@master/logos/USDx.svg"
+    },
+    "0x0a5E677a6A24b2F1A2Bf4F3bFfC443231d2fDEc8": {
+        "symbol": "USX",
+        "name": "dForce USD",
+        "decimals": 18,
+        "address": "0x0a5E677a6A24b2F1A2Bf4F3bFfC443231d2fDEc8",
+        "logoURI": "https://cdn.jsdelivr.net/gh/dforce-network/token-list@master/logos/USX.svg"
+    },
+    "0xb986F3a2d91d3704Dc974A24FB735dCc5E3C1E70": {
+        "symbol": "EUX",
+        "name": "dForce EUR",
+        "decimals": 18,
+        "address": "0xb986F3a2d91d3704Dc974A24FB735dCc5E3C1E70",
+        "logoURI": "https://cdn.jsdelivr.net/gh/dforce-network/token-list@master/logos/EUX.svg"
+    },
+    "0x527Ec46Ac094B399265d1D71Eff7b31700aA655D": {
+        "symbol": "xBTC",
+        "name": "dForce BTC",
+        "decimals": 18,
+        "address": "0x527Ec46Ac094B399265d1D71Eff7b31700aA655D",
+        "logoURI": "https://cdn.jsdelivr.net/gh/dforce-network/token-list@master/logos/xBTC.svg"
+    },
+    "0x8d2Cb35893C01fa8B564c84Bd540c5109d9D278e": {
+        "symbol": "xETH",
+        "name": "dForce ETH",
+        "decimals": 18,
+        "address": "0x8d2Cb35893C01fa8B564c84Bd540c5109d9D278e",
+        "logoURI": "https://cdn.jsdelivr.net/gh/dforce-network/token-list@master/logos/xETH.svg"
+    },
+    "0x8dc6987F7D8E5aE9c39F767A324C5e46C1f731eB": {
+        "symbol": "xTSLA",
+        "name": "dForce Tesla Stock",
+        "decimals": 18,
+        "address": "0x8dc6987F7D8E5aE9c39F767A324C5e46C1f731eB",
+        "logoURI": "https://cdn.jsdelivr.net/gh/dforce-network/token-list@master/logos/xTSLA.svg"
+    },
+    "0xc4Ba45BeE9004408403b558a26099134282F2185": {
+        "symbol": "xAAPL",
+        "name": "dForce Apple Stock",
+        "decimals": 18,
+        "address": "0xc4Ba45BeE9004408403b558a26099134282F2185",
+        "logoURI": "https://cdn.jsdelivr.net/gh/dforce-network/token-list@master/logos/xAAPL.svg"
+    },
+    "0x966E726853Ca97449F458A3B012318a08B508202": {
+        "symbol": "xAMZN",
+        "name": "dForce Amazon Stock",
+        "decimals": 18,
+        "address": "0x966E726853Ca97449F458A3B012318a08B508202",
+        "logoURI": "https://cdn.jsdelivr.net/gh/dforce-network/token-list@master/logos/xAMZN.svg"
+    },
+    "0x32F9063bC2A2A57bCBe26ef662Dc867d5e6446d1": {
+        "symbol": "xCOIN",
+        "name": "dForce Coinbase Stock",
+        "decimals": 18,
+        "address": "0x32F9063bC2A2A57bCBe26ef662Dc867d5e6446d1",
+        "logoURI": "https://cdn.jsdelivr.net/gh/dforce-network/token-list@master/logos/xCOIN.svg"
+    },
+    "0x427e0ddfd4e28fdbf4531a7008421ea4989635bf": {
+        "symbol": "USDx",
+        "name": "dForce",
+        "decimals": 18,
+        "address": "0x427e0ddfd4e28fdbf4531a7008421ea4989635bf",
+        "logoURI": "https://cdn.jsdelivr.net/gh/dforce-network/token-list@master/logos/USDx.svg"
     }
 }
