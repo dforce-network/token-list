@@ -7435,12 +7435,5 @@
         "decimals": 18,
         "address": "0x32F9063bC2A2A57bCBe26ef662Dc867d5e6446d1",
         "logoURI": "https://cdn.jsdelivr.net/gh/dforce-network/token-list@master/logos/xCOIN.svg"
-    },
-    "0x427e0ddfd4e28fdbf4531a7008421ea4989635bf": {
-        "symbol": "USDx",
-        "name": "dForce",
-        "decimals": 18,
-        "address": "0x427e0ddfd4e28fdbf4531a7008421ea4989635bf",
-        "logoURI": "https://cdn.jsdelivr.net/gh/dforce-network/token-list@master/logos/USDx.svg"
     }
 }
