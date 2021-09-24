@@ -104,12 +104,6 @@
 "address": "0xc3ae0333f0f34aa734d5493276223d95b8f9cb37",
 "logoURI": "https://tokens.1inch.io/0xa1d65e8fb6e87b60feccbc582f7f97804b725521.png"
 },
-"0x969131d8ddc06c2be11a13e6e7facf22cf57d95e": {
-"symbol": "EUX",
-"name": "dForce EUR",
-"decimals": 18,
-"address": "0x969131d8ddc06c2be11a13e6e7facf22cf57d95e"
-},
 "0xbdef0e9ef12e689f366fe494a7a7d0dad25d9286": {
 "symbol": "FUSE",
 "name": "Fuse Token",
@@ -268,12 +262,6 @@
 "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
 "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png"
 },
-"0xcd14c3a2ba27819b352aae73414a26e2b366dc50": {
-"symbol": "USX",
-"name": "dForce USD",
-"decimals": 18,
-"address": "0xcd14c3a2ba27819b352aae73414a26e2b366dc50"
-},
 "0x995c235521820f2637303ca1970c7c044583df44": {
 "symbol": "VISR",
 "name": "VISOR",
@@ -321,5 +309,26 @@
 "decimals": 18,
 "address": "0x0f61b24272af65eacf6adfe507028957698e032f",
 "logoURI": "https://tokens.1inch.io/0xedd7c94fd7b4971b916d15067bc454b9e1bad980.png"
+},
+"0xC2125882318d04D266720B598d620f28222F3ABd": {
+    "symbol": "EUX",
+    "name": "dForce EUR",
+    "decimals": 18,
+    "address": "0xC2125882318d04D266720B598d620f28222F3ABd",
+    "logoURI": "https://cdn.jsdelivr.net/gh/dforce-network/token-list@master/logos/EUX.svg"
+},
+"0x641441c631e2F909700d2f41FD87F0aA6A6b4EDb": {
+    "symbol": "USX",
+    "name": "dForce USD",
+    "decimals": 18,
+    "address": "0x641441c631e2F909700d2f41FD87F0aA6A6b4EDb",
+    "logoURI": "https://cdn.jsdelivr.net/gh/dforce-network/token-list@master/logos/USX.svg"
+},
+"0xaE6aab43C4f3E0cea4Ab83752C278f8dEbabA689": {
+    "symbol": "DF",
+    "name": "dForce",
+    "decimals": 18,
+    "address": "0xaE6aab43C4f3E0cea4Ab83752C278f8dEbabA689",
+    "logoURI": "https://cdn.jsdelivr.net/gh/dforce-network/token-list@master/logos/DF.svg"
 }
 }
